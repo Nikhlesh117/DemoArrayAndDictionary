@@ -12,10 +12,10 @@ namespace ArrayListDemo
     {
         static void Main(string[] args)
         {
-            demoArraylist demo = new demoArraylist();
-            demo.ArrayDemo();
-            //demoDictionarty dictionarty = new demoDictionarty();
-            //dictionarty.dict();
+            //demoArraylist demo = new demoArraylist();
+            //demo.ArrayDemo();
+            demoDictionarty dictionarty = new demoDictionarty();
+            dictionarty.dict();
             Console.ReadKey();
         }
     }
